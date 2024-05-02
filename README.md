@@ -31,9 +31,7 @@ public 점수가 57위였기 때문에, 본선은 당연히 진출하지 못할 
 
 저희 팀은 private 9위로 순위가 대폭 올라가 있었습니다.
 
-순위가 올라간 원인으로는 train 데이터의 target 값의 불균형과, overfitting을 피해야 했던 F1-score 평가 지표로 인해 
-
-가장 전처리가 되어 있지 않은 코드를 제출함으로써 overfitting을 피해 private 점수가 올라간 것이라고 추측했습니다.
+순위가 올라간 원인으로는 train 데이터의 target 값의 불균형과, overfitting을 피해야 했던 F1-score 평가 지표로 인해 가장 전처리가 되어 있지 않은 코드를 제출함으로써 overfitting을 피해 private 점수가 올라간 것이라고 추측했습니다.
 
 
 저희는 overfitting을 피하는 것이 private에서 가장 점수를 높일 수 있다는 가정을 본선에서도 이어갔습니다.
