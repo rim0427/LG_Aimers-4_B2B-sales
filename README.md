@@ -8,7 +8,7 @@
 * 규모 | 총 1000여명 참가
 
 ## 결과
-* 예선 public 57위 private 9위 / 844팀 중
+* 예선 public 57위 private 9위
 * 본선 public 13위 private 21위 / 34팀 중
 
 ## 대회 접근법
